@@ -1,2 +1,2 @@
-# livarava-jobs-admin
+# livarava-jobs-vue
 LivaRava Jobs Admin
