@@ -1,8 +1,8 @@
 {
-  "name": "vuestic-admin",
-  "version": "1.9.0",
-  "description": "Vue.js admin template",
-  "author": "smartapant <smartapant@gmail.com>",
+  "name": "livarava-jobs-vue",
+  "version": "0.0.1",
+  "description": "LivaRava Jobs Admin",
+  "author": "Artem Kariavka <a@livarava.com>",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
